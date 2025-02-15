@@ -4,11 +4,12 @@
 
 ## Description
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+*** Note before using npm link my-shared-orm please link the my-shared-orm app using the steps provided in my-shared-orm repository .
 ## Project setup
 ```bash
 $ npm install
 2. bulid the project 'npm run build'
+3. use 'npm link my-shared-orm'
 ```
 # Steps to get the required shared typeorm library dependencies
 1. use 'npm link my-shared-orm'
