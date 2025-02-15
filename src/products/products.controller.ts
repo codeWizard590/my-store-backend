@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { Product } from 'my-shared-orm';
-import { ProductServiceService } from 'src/services/product-service/product-service.service';
+import { ProductServiceService } from 'src/products/product-service.service';
 
 @Controller('products')
 export class ProductsController {
