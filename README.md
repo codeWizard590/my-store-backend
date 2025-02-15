@@ -11,7 +11,7 @@ $ npm install
 2. bulid the project 'npm run build'
 ```
 # Steps to get the required shared typeorm library dependencies
-1 <b>npm link my-shared-orm </b>
+1 npm link my-shared-orm
 <i> please keep in mind my-shared-orm is the name of the project where typeorm entities are located please replace with respective name of your project if going with any other name </i>
 
 ## Compile and run the project
