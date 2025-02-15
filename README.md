@@ -16,7 +16,8 @@ $ npm install
 1. use 'npm link my-shared-orm'
    
 <i> please keep in mind my-shared-orm is the name of the project where typeorm entities are located please replace with respective name of your project if going with any other name </i>
-
+# Add database configuration in .env file 
+1. please add you shared orm database configuration in the .env file of next js app also .env folder present in the root of the application.
 ## Compile and run the project
 
 ```bash
